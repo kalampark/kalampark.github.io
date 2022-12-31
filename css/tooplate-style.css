@@ -216,7 +216,7 @@ b, strong {
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #ffc200;
+  color: #0080ff;
   font-weight: bold;
 }
 .navbar-light .navbar-nav .nav-link:focus span,
@@ -298,7 +298,7 @@ b, strong {
   color: rgba(255, 255, 255, 0.8);
 }
 .dark-mode .navbar-light .navbar-nav .nav-link:hover {
-  color: #ffc200;
+  color: #0062ff;
 }
 .dark-mode .navbar[class*="headroom--not-top"] {
   background: #0c0c0d;
@@ -400,7 +400,7 @@ b, strong {
   font-size: inherit;
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
-  color: #ffc200;
+  color: #006aff;
 }
 .owl-theme .owl-dots .owl-dot {
   outline: none;
@@ -432,10 +432,10 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #ffc200;
+  border-color: #008cff;
 }
 .contact-form .submit-btn {
-  background: #ffc200;
+  background: #0051ff;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;
@@ -464,7 +464,7 @@ b, strong {
   margin: 5px 0;
 }
 .social-links .uil:hover {
-  color: #ffc200;
+  color: #00d9ff;
 }
 
 @media (min-width: 1270px) {
