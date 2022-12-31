@@ -42,7 +42,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #ffc200 !important;
+  color: #00a2ff !important;
 }
 
 .navbar-brand .uil {
@@ -94,14 +94,14 @@ b, strong {
   transition: all 0.4s ease;
 }
 .custom-btn:hover {
-  color: #ffc200;
+  color: #0091ff;
 }
 .custom-btn.custom-btn-bg {
   background: #474559;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #ffc200;
+  background: #0077ff;
   color: #ffffff !important;
 }
 
@@ -118,7 +118,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #ffc200;
+  color: #0088ff;
 }
 
 .animated-item {
