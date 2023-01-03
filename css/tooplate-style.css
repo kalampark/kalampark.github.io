@@ -42,7 +42,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #00a2ff !important;
+  color: #fbfbfb !important;
 }
 
 .navbar-brand .uil {
