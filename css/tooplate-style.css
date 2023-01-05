@@ -20,7 +20,7 @@ html {
 }
 
 .small-text {
-  color: #5b5b5b;
+  color: #f3f0f0;
   font-size: 14px;
   font-weight: bold;
   padding: 8px 16px;
@@ -301,8 +301,8 @@ b, strong {
   color: #0062ff;
 }
 .dark-mode .navbar[class*="headroom--not-top"] {
-  background: #0c0c0d;
-  border-bottom: 1px solid #1f1f1f;
+  background: #c8c8d5;
+  border-bottom: 1px solid #ebdede;
 }
 .dark-mode .small-text {
   background: #c8c7ce;
@@ -444,11 +444,11 @@ b, strong {
   transition: all 0.4s ease;
 }
 .contact-form .submit-btn:hover {
-  background: #474559;
+  background: #c8c6d8;
 }
 
 .contact-info {
-  background: #474559;
+  background: #cdccd3;
   border-radius: 0 0 3px 3px;
   position: relative;
   bottom: 8px;
