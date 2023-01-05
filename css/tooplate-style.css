@@ -53,7 +53,7 @@ p {
   font-size: 18px;
   font-weight: 300;
   line-height: 1.5;
-  color: #5b5b5b;
+  color: #e0d3d3;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -62,13 +62,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  color: #212121;
+  color: #797878;
   font-size: 2.8em;
   margin: 24px 0;
 }
 
 h2 {
-  color: #353535;
+  color: #b0abab;
   font-size: 2.4em;
   font-weight: bold;
 }
@@ -305,7 +305,7 @@ b, strong {
   border-bottom: 1px solid #1f1f1f;
 }
 .dark-mode .small-text {
-  background: #0d0c15;
+  background: #c8c7ce;
   color: #ffffff;
 }
 .dark-mode .feature-card .uil,
