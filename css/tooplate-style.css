@@ -74,14 +74,16 @@ h2 {
 }
 
 h3 {
-  color: #324c74;
+  color: #bdd0ef;
 }
 
 h3,
 b, strong {
   font-weight: bold;
 }
-
+h4 {
+  color: #bdd0ef;
+}
 .custom-btn {
   background: #eee;
   color: #5b5b5b;
